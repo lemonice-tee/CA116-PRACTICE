@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+
+s = input()
+tt = []
+while s != 'end':
+    tt.append(s)2 14 2 ca200 l114 Quantitative Analysis for Business Decisions s = input() 3 09 1 ca227 l101 Business Data
+Management Iday = input() i = 0 while i < len(tt): 3 11 2 ca277 lg26 Programming Fundamentals I if tt[i][0] == day: 4 10 2 ca227
+c114 Business Data Management I print(''.join(tt[i])) end i += 1 2#print(day)

@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+
+s = input()
+while s != 'end':
+    lines = s.split() print(lines) s = input()2 14 2
+    ca200 l114 Quantitative Analysis for Business
+    Decisions
+3 09 1 ca227 l101 Business Data Management I 3 11 2
+ca277 lg26 Programming Fundamentals I 4 10 2 ca227 c114
+Business Data Management I end
